@@ -1,0 +1,24 @@
+.statistics_wrapper {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.statistics_title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.statistics_information {
+  list-style-type: none;
+  padding: 0;
+}
+
+.statistics_item {
+  margin-bottom: 10px;
+}
+
+.statistics_item__description {
+  font-size: 16px;
+}
+
